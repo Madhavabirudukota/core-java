@@ -4,7 +4,7 @@ public class SingleInheritanceDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-StudentSi m=new StudentSi(121," madhava");
+Student m=new Student(" madhava",121,"hgh",1254);
 System.out.println(m);
 }
 }

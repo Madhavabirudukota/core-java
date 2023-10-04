@@ -1,15 +1,15 @@
 package com.tnsif.inheritanceprog;
 
-public class CitizenSi {
+public class Citizen {
 	private String name;
 	private long aadharno;
 	private String address;
 	private long phoneno;
 	//default constructor
-	public CitizenSi() {
+	public Citizen() {
 		super();
 	}
-	public CitizenSi(String name, long aadharno, String address, long phoneno) {
+	public Citizen(String name, long aadharno, String address, long phoneno) {
 		super();
 		this.name = name;
 		this.aadharno = aadharno;

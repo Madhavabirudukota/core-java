@@ -10,8 +10,6 @@ public class FunctionOverloadDemo {
 		float t=ob.volume(2.0f,3.0f,4.0f);
 		System.out.println("Volume of cubiod="+t);
 		double u=ob.volume(2.0d);
-		System.out.println("Volume of cubiod="+u);
-		
+		System.out.println("Volume of cubiod="+u);		
 	}
-
 }
