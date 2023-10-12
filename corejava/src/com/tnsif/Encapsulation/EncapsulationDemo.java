@@ -1,4 +1,4 @@
-package com.tnsif.prog1;
+package com.tnsif.Encapsulation;
 
 public class EncapsulationDemo {
 

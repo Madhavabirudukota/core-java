@@ -9,7 +9,6 @@ public class Demo {
 			System.out.println("Student Registered");
 		else
 			System.out.println("Student not Registered");
-		
 	}
 
 }
