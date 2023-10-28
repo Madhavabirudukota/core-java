@@ -11,11 +11,11 @@ public  static void check()
 	int y=6;
 	try// outer try block
 	{
-	//	int z=y/0;
+	  int z=y/0;
 	try // inner try block
 	{
 		System.out.println(str.charAt(8));
-	//	System.out.println(z);
+	    System.out.println(z);
 	}
 	catch(StringIndexOutOfBoundsException e)
 	{
